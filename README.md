@@ -13,3 +13,5 @@ The highest score it reaches is showed below:
 The average score in 20 rounds is 1534.75
 
 ![image](https://github.com/Zh-Qr/AI-Tetris/blob/main/Average%20score.png)
+
+I am here to thank my classmates' support, Yunkai Shen and Yunfei Peng.
